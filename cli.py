@@ -6,7 +6,7 @@ def cli():
     pass
 
 
-@cli.command('login')sds
+@cli.command('login')asddsdadasdasdaasdasdasdasdasdsadasasdasd
 @click.option('--username')
 @click.option('--password')
 def login(username,password):
