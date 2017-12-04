@@ -10,7 +10,7 @@ def cli():
 @click.option('--username')
 @click.option('--password')
 def login(username,password):
-    click.echo('Welcome ! '+username+"!")
+    click.echo('Welcome ! '+username+"!!")
 
 
 
